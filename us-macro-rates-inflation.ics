@@ -1,0 +1,1490 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FiveMedian U.S. Macro Rates and Inflation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U.S. Macro - Rates & Inflation
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:20260609-1000-existing-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260609T140000Z
+DTEND:20260609T143000Z
+SUMMARY:Existing-Home Sales
+DESCRIPTION:Priority: High. Category: Housing. NAR existing-home sales fo
+ r May 2026. Focus: sales pace\, inventory\, prices\, and months of suppl
+ y.
+URL:https://www.nar.realtor/newsroom/nar-statistical-news-release-schedul
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260610-0830-cpi-inflation-report@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260610T123000Z
+DTEND:20260610T130000Z
+SUMMARY:CPI Inflation Report
+DESCRIPTION:Priority: Tier 1. Category: Inflation. Consumer Price Index f
+ or May 2026. Focus: headline/core monthly inflation\, shelter\, and serv
+ ices.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260611-0830-producer-price-index-ppi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260611T123000Z
+DTEND:20260611T130000Z
+SUMMARY:Producer Price Index / PPI
+DESCRIPTION:Priority: High. Category: Inflation. Producer Price Index for
+  May 2026. Focus: core pipeline inflation and PCE-relevant components.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260612-1000-michigan-sentiment-preliminary@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260612T140000Z
+DTEND:20260612T143000Z
+SUMMARY:Michigan Sentiment — Preliminary
+DESCRIPTION:Priority: High. Category: Inflation Expectations. University 
+ of Michigan preliminary consumer survey for June 2026. Focus: 1-year and
+  5–10-year inflation expectations.
+URL:https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260616-0830-import-export-price-indexes@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260616T123000Z
+DTEND:20260616T130000Z
+SUMMARY:Import & Export Price Indexes
+DESCRIPTION:Priority: Secondary. Category: Inflation. Import and export p
+ rice indexes for May 2026. Focus: imported inflation\, currency\, and co
+ mmodity pass-through.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260616-0830-housing-starts-building-permits@us-macro-rates-inflatio
+ n
+DTSTAMP:20260608T195125Z
+DTSTART:20260616T123000Z
+DTEND:20260616T130000Z
+SUMMARY:Housing Starts & Building Permits
+DESCRIPTION:Priority: High. Category: Housing. New Residential Constructi
+ on for May 2026. Focus: starts\, permits\, completions\, and single-fami
+ ly activity.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260617-0830-retail-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260617T123000Z
+DTEND:20260617T130000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Priority: Tier 2. Category: Demand. Advance retail sales for 
+ May 2026. Focus: control group and consumer-demand momentum.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260624-1000-new-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260624T140000Z
+DTEND:20260624T143000Z
+SUMMARY:New Home Sales
+DESCRIPTION:Priority: High. Category: Housing. New residential sales for 
+ May 2026. Focus: sales pace\, inventory\, prices\, and revisions.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260625-0830-personal-income-outlays-core-pce@us-macro-rates-inflati
+ on
+DTSTAMP:20260608T195125Z
+DTSTART:20260625T123000Z
+DTEND:20260625T130000Z
+SUMMARY:Personal Income & Outlays / Core PCE
+DESCRIPTION:Priority: Tier 1. Category: Inflation & Spending. Personal In
+ come and Outlays for May 2026. Focus: core PCE inflation\, consumer spen
+ ding\, income\, and saving.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260625-0830-durable-goods-orders@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260625T123000Z
+DTEND:20260625T130000Z
+SUMMARY:Durable Goods Orders
+DESCRIPTION:Priority: Secondary. Category: Business Investment. Advance d
+ urable goods orders for May 2026. Focus: core capital-goods orders and s
+ hipments.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260630-1000-jolts-job-openings@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260630T140000Z
+DTEND:20260630T143000Z
+SUMMARY:JOLTS Job Openings
+DESCRIPTION:Priority: High. Category: Labor. Job Openings and Labor Turno
+ ver Survey for May 2026. Focus: openings\, quits\, hires\, and labor-mar
+ ket tightness.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260701-1000-ism-manufacturing-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260701T140000Z
+DTEND:20260701T143000Z
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Manufactur
+ ing PMI for June 2026. Focus: prices paid\, new orders\, employment\, an
+ d supplier deliveries.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260702-0830-employment-situation-nonfarm-payrolls@us-macro-rates-in
+ flation
+DTSTAMP:20260608T195125Z
+DTSTART:20260702T123000Z
+DTEND:20260702T130000Z
+SUMMARY:Employment Situation / Nonfarm Payrolls
+DESCRIPTION:Priority: Tier 1. Category: Labor. Employment Situation for J
+ une 2026. Focus: payrolls\, unemployment\, wages\, participation\, and r
+ evisions.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260706-1000-ism-services-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260706T140000Z
+DTEND:20260706T143000Z
+SUMMARY:ISM Services PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Services P
+ MI for June 2026. Focus: prices paid\, new orders\, business activity\, 
+ and employment.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260709-1000-existing-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260709T140000Z
+DTEND:20260709T143000Z
+SUMMARY:Existing-Home Sales
+DESCRIPTION:Priority: High. Category: Housing. NAR existing-home sales fo
+ r June 2026. Focus: sales pace\, inventory\, prices\, and months of supp
+ ly.
+URL:https://www.nar.realtor/newsroom/nar-statistical-news-release-schedul
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260714-0830-cpi-inflation-report@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260714T123000Z
+DTEND:20260714T130000Z
+SUMMARY:CPI Inflation Report
+DESCRIPTION:Priority: Tier 1. Category: Inflation. Consumer Price Index f
+ or June 2026. Focus: headline/core monthly inflation\, shelter\, and ser
+ vices.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260715-0830-producer-price-index-ppi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260715T123000Z
+DTEND:20260715T130000Z
+SUMMARY:Producer Price Index / PPI
+DESCRIPTION:Priority: High. Category: Inflation. Producer Price Index for
+  June 2026. Focus: core pipeline inflation and PCE-relevant components.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260716-0830-retail-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260716T123000Z
+DTEND:20260716T130000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Priority: Tier 2. Category: Demand. Advance retail sales for 
+ June 2026. Focus: control group and consumer-demand momentum.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260717-0830-import-export-price-indexes@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260717T123000Z
+DTEND:20260717T130000Z
+SUMMARY:Import & Export Price Indexes
+DESCRIPTION:Priority: Secondary. Category: Inflation. Import and export p
+ rice indexes for June 2026. Focus: imported inflation\, currency\, and c
+ ommodity pass-through.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260717-0830-housing-starts-building-permits@us-macro-rates-inflatio
+ n
+DTSTAMP:20260608T195125Z
+DTSTART:20260717T123000Z
+DTEND:20260717T130000Z
+SUMMARY:Housing Starts & Building Permits
+DESCRIPTION:Priority: High. Category: Housing. New Residential Constructi
+ on for June 2026. Focus: starts\, permits\, completions\, and single-fam
+ ily activity.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260717-1000-michigan-sentiment-preliminary@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260717T140000Z
+DTEND:20260717T143000Z
+SUMMARY:Michigan Sentiment — Preliminary
+DESCRIPTION:Priority: High. Category: Inflation Expectations. University 
+ of Michigan preliminary consumer survey for July 2026. Focus: 1-year and
+  5–10-year inflation expectations.
+URL:https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260724-1000-new-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260724T140000Z
+DTEND:20260724T143000Z
+SUMMARY:New Home Sales
+DESCRIPTION:Priority: High. Category: Housing. New residential sales for 
+ June 2026. Focus: sales pace\, inventory\, prices\, and revisions.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260727-0830-durable-goods-orders@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260727T123000Z
+DTEND:20260727T130000Z
+SUMMARY:Durable Goods Orders
+DESCRIPTION:Priority: Secondary. Category: Business Investment. Advance d
+ urable goods orders for June 2026. Focus: core capital-goods orders and 
+ shipments.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260730-0830-personal-income-outlays-core-pce@us-macro-rates-inflati
+ on
+DTSTAMP:20260608T195125Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:Personal Income & Outlays / Core PCE
+DESCRIPTION:Priority: Tier 1. Category: Inflation & Spending. Personal In
+ come and Outlays for June 2026. Focus: core PCE inflation\, consumer spe
+ nding\, income\, and saving.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260730-0830-gdp-advance-estimate@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:GDP Advance Estimate
+DESCRIPTION:Priority: Tier 2. Category: Growth. Advance estimate of U.S. 
+ GDP for Q2 2026. Focus: final domestic demand\, consumption\, and inflat
+ ion components.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260731-0830-employment-cost-index-eci@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260731T123000Z
+DTEND:20260731T130000Z
+SUMMARY:Employment Cost Index / ECI
+DESCRIPTION:Priority: High. Category: Wages. Employment Cost Index for Q2
+  2026. Broad measure of wage and benefit growth.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260803-1000-ism-manufacturing-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260803T140000Z
+DTEND:20260803T143000Z
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Manufactur
+ ing PMI for July 2026. Focus: prices paid\, new orders\, employment\, an
+ d supplier deliveries.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260803-1500-treasury-quarterly-borrowing-estimates@us-macro-rates-i
+ nflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260803T190000Z
+DTEND:20260803T193000Z
+SUMMARY:Treasury Quarterly Borrowing Estimates
+DESCRIPTION:Priority: Tier 2. Category: Treasury Supply. Quarterly financ
+ ing estimates. Can reprice Treasury supply expectations and term premium
+ .
+URL:https://home.treasury.gov/policy-issues/financing-the-government/quar
+ terly-refunding/most-recent-quarterly-refunding-documents
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260804-1000-jolts-job-openings@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260804T140000Z
+DTEND:20260804T143000Z
+SUMMARY:JOLTS Job Openings
+DESCRIPTION:Priority: High. Category: Labor. Job Openings and Labor Turno
+ ver Survey for June 2026. Focus: openings\, quits\, hires\, and labor-ma
+ rket tightness.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260805-0830-treasury-quarterly-refunding-announcement@us-macro-rate
+ s-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260805T123000Z
+DTEND:20260805T130000Z
+SUMMARY:Treasury Quarterly Refunding Announcement
+DESCRIPTION:Priority: Tier 2. Category: Treasury Supply. Quarterly refund
+ ing statement\, financing composition\, TBAC materials\, and auction-siz
+ e guidance.
+URL:https://home.treasury.gov/policy-issues/financing-the-government/quar
+ terly-refunding/most-recent-quarterly-refunding-documents
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260805-1000-ism-services-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260805T140000Z
+DTEND:20260805T143000Z
+SUMMARY:ISM Services PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Services P
+ MI for July 2026. Focus: prices paid\, new orders\, business activity\, 
+ and employment.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260806-0830-productivity-unit-labor-costs@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260806T123000Z
+DTEND:20260806T130000Z
+SUMMARY:Productivity & Unit Labor Costs
+DESCRIPTION:Priority: High. Category: Inflation & Growth. Productivity an
+ d costs release: Q2 2026 preliminary. Focus: unit labor costs and nonfar
+ m productivity.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260807-0830-employment-situation-nonfarm-payrolls@us-macro-rates-in
+ flation
+DTSTAMP:20260608T195125Z
+DTSTART:20260807T123000Z
+DTEND:20260807T130000Z
+SUMMARY:Employment Situation / Nonfarm Payrolls
+DESCRIPTION:Priority: Tier 1. Category: Labor. Employment Situation for J
+ uly 2026. Focus: payrolls\, unemployment\, wages\, participation\, and r
+ evisions.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260811-1000-existing-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260811T140000Z
+DTEND:20260811T143000Z
+SUMMARY:Existing-Home Sales
+DESCRIPTION:Priority: High. Category: Housing. NAR existing-home sales fo
+ r July 2026. Focus: sales pace\, inventory\, prices\, and months of supp
+ ly.
+URL:https://www.nar.realtor/newsroom/nar-statistical-news-release-schedul
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260812-0830-cpi-inflation-report@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260812T123000Z
+DTEND:20260812T130000Z
+SUMMARY:CPI Inflation Report
+DESCRIPTION:Priority: Tier 1. Category: Inflation. Consumer Price Index f
+ or July 2026. Focus: headline/core monthly inflation\, shelter\, and ser
+ vices.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260813-0830-producer-price-index-ppi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260813T123000Z
+DTEND:20260813T130000Z
+SUMMARY:Producer Price Index / PPI
+DESCRIPTION:Priority: High. Category: Inflation. Producer Price Index for
+  July 2026. Focus: core pipeline inflation and PCE-relevant components.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260814-0830-retail-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260814T123000Z
+DTEND:20260814T130000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Priority: Tier 2. Category: Demand. Advance retail sales for 
+ July 2026. Focus: control group and consumer-demand momentum.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260814-1000-michigan-sentiment-preliminary@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260814T140000Z
+DTEND:20260814T143000Z
+SUMMARY:Michigan Sentiment — Preliminary
+DESCRIPTION:Priority: High. Category: Inflation Expectations. University 
+ of Michigan preliminary consumer survey for August 2026. Focus: 1-year a
+ nd 5–10-year inflation expectations.
+URL:https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-0830-import-export-price-indexes@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260818T123000Z
+DTEND:20260818T130000Z
+SUMMARY:Import & Export Price Indexes
+DESCRIPTION:Priority: Secondary. Category: Inflation. Import and export p
+ rice indexes for July 2026. Focus: imported inflation\, currency\, and c
+ ommodity pass-through.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-0830-housing-starts-building-permits@us-macro-rates-inflatio
+ n
+DTSTAMP:20260608T195125Z
+DTSTART:20260818T123000Z
+DTEND:20260818T130000Z
+SUMMARY:Housing Starts & Building Permits
+DESCRIPTION:Priority: High. Category: Housing. New Residential Constructi
+ on for July 2026. Focus: starts\, permits\, completions\, and single-fam
+ ily activity.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-1000-new-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260825T140000Z
+DTEND:20260825T143000Z
+SUMMARY:New Home Sales
+DESCRIPTION:Priority: High. Category: Housing. New residential sales for 
+ July 2026. Focus: sales pace\, inventory\, prices\, and revisions.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260826-0830-personal-income-outlays-core-pce@us-macro-rates-inflati
+ on
+DTSTAMP:20260608T195125Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:Personal Income & Outlays / Core PCE
+DESCRIPTION:Priority: Tier 1. Category: Inflation & Spending. Personal In
+ come and Outlays for July 2026. Focus: core PCE inflation\, consumer spe
+ nding\, income\, and saving.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260826-0830-durable-goods-orders@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:Durable Goods Orders
+DESCRIPTION:Priority: Secondary. Category: Business Investment. Advance d
+ urable goods orders for July 2026. Focus: core capital-goods orders and 
+ shipments.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-1000-ism-manufacturing-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260901T140000Z
+DTEND:20260901T143000Z
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Manufactur
+ ing PMI for August 2026. Focus: prices paid\, new orders\, employment\, 
+ and supplier deliveries.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-1000-jolts-job-openings@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260901T140000Z
+DTEND:20260901T143000Z
+SUMMARY:JOLTS Job Openings
+DESCRIPTION:Priority: High. Category: Labor. Job Openings and Labor Turno
+ ver Survey for July 2026. Focus: openings\, quits\, hires\, and labor-ma
+ rket tightness.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-0830-productivity-unit-labor-costs@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260903T123000Z
+DTEND:20260903T130000Z
+SUMMARY:Productivity & Unit Labor Costs
+DESCRIPTION:Priority: High. Category: Inflation & Growth. Productivity an
+ d costs release: Q2 2026 revised. Focus: unit labor costs and nonfarm pr
+ oductivity.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-1000-ism-services-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260903T140000Z
+DTEND:20260903T143000Z
+SUMMARY:ISM Services PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Services P
+ MI for August 2026. Focus: prices paid\, new orders\, business activity\
+ , and employment.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-0830-employment-situation-nonfarm-payrolls@us-macro-rates-in
+ flation
+DTSTAMP:20260608T195125Z
+DTSTART:20260904T123000Z
+DTEND:20260904T130000Z
+SUMMARY:Employment Situation / Nonfarm Payrolls
+DESCRIPTION:Priority: Tier 1. Category: Labor. Employment Situation for A
+ ugust 2026. Focus: payrolls\, unemployment\, wages\, participation\, and
+  revisions.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-0830-producer-price-index-ppi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260910T123000Z
+DTEND:20260910T130000Z
+SUMMARY:Producer Price Index / PPI
+DESCRIPTION:Priority: High. Category: Inflation. Producer Price Index for
+  August 2026. Focus: core pipeline inflation and PCE-relevant components
+ .
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1000-existing-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260910T140000Z
+DTEND:20260910T143000Z
+SUMMARY:Existing-Home Sales
+DESCRIPTION:Priority: High. Category: Housing. NAR existing-home sales fo
+ r August 2026. Focus: sales pace\, inventory\, prices\, and months of su
+ pply.
+URL:https://www.nar.realtor/newsroom/nar-statistical-news-release-schedul
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-0830-cpi-inflation-report@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260911T123000Z
+DTEND:20260911T130000Z
+SUMMARY:CPI Inflation Report
+DESCRIPTION:Priority: Tier 1. Category: Inflation. Consumer Price Index f
+ or August 2026. Focus: headline/core monthly inflation\, shelter\, and s
+ ervices.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1000-michigan-sentiment-preliminary@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260911T140000Z
+DTEND:20260911T143000Z
+SUMMARY:Michigan Sentiment — Preliminary
+DESCRIPTION:Priority: High. Category: Inflation Expectations. University 
+ of Michigan preliminary consumer survey for September 2026. Focus: 1-yea
+ r and 5–10-year inflation expectations.
+URL:https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-0830-retail-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Priority: Tier 2. Category: Demand. Advance retail sales for 
+ August 2026. Focus: control group and consumer-demand momentum.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-0830-import-export-price-indexes@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+SUMMARY:Import & Export Price Indexes
+DESCRIPTION:Priority: Secondary. Category: Inflation. Import and export p
+ rice indexes for August 2026. Focus: imported inflation\, currency\, and
+  commodity pass-through.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-0830-housing-starts-building-permits@us-macro-rates-inflatio
+ n
+DTSTAMP:20260608T195125Z
+DTSTART:20260917T123000Z
+DTEND:20260917T130000Z
+SUMMARY:Housing Starts & Building Permits
+DESCRIPTION:Priority: High. Category: Housing. New Residential Constructi
+ on for August 2026. Focus: starts\, permits\, completions\, and single-f
+ amily activity.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924-1000-new-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260924T140000Z
+DTEND:20260924T143000Z
+SUMMARY:New Home Sales
+DESCRIPTION:Priority: High. Category: Housing. New residential sales for 
+ August 2026. Focus: sales pace\, inventory\, prices\, and revisions.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-0830-durable-goods-orders@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260925T123000Z
+DTEND:20260925T130000Z
+SUMMARY:Durable Goods Orders
+DESCRIPTION:Priority: Secondary. Category: Business Investment. Advance d
+ urable goods orders for August 2026. Focus: core capital-goods orders an
+ d shipments.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260929-1000-jolts-job-openings@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20260929T140000Z
+DTEND:20260929T143000Z
+SUMMARY:JOLTS Job Openings
+DESCRIPTION:Priority: High. Category: Labor. Job Openings and Labor Turno
+ ver Survey for August 2026. Focus: openings\, quits\, hires\, and labor-
+ market tightness.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260930-0830-personal-income-outlays-core-pce@us-macro-rates-inflati
+ on
+DTSTAMP:20260608T195125Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:Personal Income & Outlays / Core PCE
+DESCRIPTION:Priority: Tier 1. Category: Inflation & Spending. Personal In
+ come and Outlays for August 2026. Focus: core PCE inflation\, consumer s
+ pending\, income\, and saving.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261001-1000-ism-manufacturing-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261001T140000Z
+DTEND:20261001T143000Z
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Manufactur
+ ing PMI for September 2026. Focus: prices paid\, new orders\, employment
+ \, and supplier deliveries.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-0830-employment-situation-nonfarm-payrolls@us-macro-rates-in
+ flation
+DTSTAMP:20260608T195125Z
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+SUMMARY:Employment Situation / Nonfarm Payrolls
+DESCRIPTION:Priority: Tier 1. Category: Labor. Employment Situation for S
+ eptember 2026. Focus: payrolls\, unemployment\, wages\, participation\, 
+ and revisions.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005-1000-ism-services-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261005T140000Z
+DTEND:20261005T143000Z
+SUMMARY:ISM Services PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Services P
+ MI for September 2026. Focus: prices paid\, new orders\, business activi
+ ty\, and employment.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-1000-michigan-sentiment-preliminary@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261009T140000Z
+DTEND:20261009T143000Z
+SUMMARY:Michigan Sentiment — Preliminary
+DESCRIPTION:Priority: High. Category: Inflation Expectations. University 
+ of Michigan preliminary consumer survey for October 2026. Focus: 1-year 
+ and 5–10-year inflation expectations.
+URL:https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-1000-existing-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261013T140000Z
+DTEND:20261013T143000Z
+SUMMARY:Existing-Home Sales
+DESCRIPTION:Priority: High. Category: Housing. NAR existing-home sales fo
+ r September 2026. Focus: sales pace\, inventory\, prices\, and months of
+  supply.
+URL:https://www.nar.realtor/newsroom/nar-statistical-news-release-schedul
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-0830-cpi-inflation-report@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+SUMMARY:CPI Inflation Report
+DESCRIPTION:Priority: Tier 1. Category: Inflation. Consumer Price Index f
+ or September 2026. Focus: headline/core monthly inflation\, shelter\, an
+ d services.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-0830-retail-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Priority: Tier 2. Category: Demand. Advance retail sales for 
+ September 2026. Focus: control group and consumer-demand momentum.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-0830-producer-price-index-ppi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:Producer Price Index / PPI
+DESCRIPTION:Priority: High. Category: Inflation. Producer Price Index for
+  September 2026. Focus: core pipeline inflation and PCE-relevant compone
+ nts.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-0830-import-export-price-indexes@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261016T123000Z
+DTEND:20261016T130000Z
+SUMMARY:Import & Export Price Indexes
+DESCRIPTION:Priority: Secondary. Category: Inflation. Import and export p
+ rice indexes for September 2026. Focus: imported inflation\, currency\, 
+ and commodity pass-through.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-0830-housing-starts-building-permits@us-macro-rates-inflatio
+ n
+DTSTAMP:20260608T195125Z
+DTSTART:20261020T123000Z
+DTEND:20261020T130000Z
+SUMMARY:Housing Starts & Building Permits
+DESCRIPTION:Priority: High. Category: Housing. New Residential Constructi
+ on for September 2026. Focus: starts\, permits\, completions\, and singl
+ e-family activity.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-0830-durable-goods-orders@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261027T123000Z
+DTEND:20261027T130000Z
+SUMMARY:Durable Goods Orders
+DESCRIPTION:Priority: Secondary. Category: Business Investment. Advance d
+ urable goods orders for September 2026. Focus: core capital-goods orders
+  and shipments.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-1000-new-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261027T140000Z
+DTEND:20261027T143000Z
+SUMMARY:New Home Sales
+DESCRIPTION:Priority: High. Category: Housing. New residential sales for 
+ September 2026. Focus: sales pace\, inventory\, prices\, and revisions.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-0830-personal-income-outlays-core-pce@us-macro-rates-inflati
+ on
+DTSTAMP:20260608T195125Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:Personal Income & Outlays / Core PCE
+DESCRIPTION:Priority: Tier 1. Category: Inflation & Spending. Personal In
+ come and Outlays for September 2026. Focus: core PCE inflation\, consume
+ r spending\, income\, and saving.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-0830-gdp-advance-estimate@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:GDP Advance Estimate
+DESCRIPTION:Priority: Tier 2. Category: Growth. Advance estimate of U.S. 
+ GDP for Q3 2026. Focus: final domestic demand\, consumption\, and inflat
+ ion components.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-0830-employment-cost-index-eci@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261030T123000Z
+DTEND:20261030T130000Z
+SUMMARY:Employment Cost Index / ECI
+DESCRIPTION:Priority: High. Category: Wages. Employment Cost Index for Q3
+  2026. Broad measure of wage and benefit growth.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-1000-ism-manufacturing-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261102T150000Z
+DTEND:20261102T153000Z
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Manufactur
+ ing PMI for October 2026. Focus: prices paid\, new orders\, employment\,
+  and supplier deliveries.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-1000-jolts-job-openings@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261103T150000Z
+DTEND:20261103T153000Z
+SUMMARY:JOLTS Job Openings
+DESCRIPTION:Priority: High. Category: Labor. Job Openings and Labor Turno
+ ver Survey for September 2026. Focus: openings\, quits\, hires\, and lab
+ or-market tightness.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104-1000-ism-services-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261104T150000Z
+DTEND:20261104T153000Z
+SUMMARY:ISM Services PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Services P
+ MI for October 2026. Focus: prices paid\, new orders\, business activity
+ \, and employment.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-0830-productivity-unit-labor-costs@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261105T133000Z
+DTEND:20261105T140000Z
+SUMMARY:Productivity & Unit Labor Costs
+DESCRIPTION:Priority: High. Category: Inflation & Growth. Productivity an
+ d costs release: Q3 2026 preliminary. Focus: unit labor costs and nonfar
+ m productivity.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-0830-employment-situation-nonfarm-payrolls@us-macro-rates-in
+ flation
+DTSTAMP:20260608T195125Z
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+SUMMARY:Employment Situation / Nonfarm Payrolls
+DESCRIPTION:Priority: Tier 1. Category: Labor. Employment Situation for O
+ ctober 2026. Focus: payrolls\, unemployment\, wages\, participation\, an
+ d revisions.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-1000-michigan-sentiment-preliminary@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261106T150000Z
+DTEND:20261106T153000Z
+SUMMARY:Michigan Sentiment — Preliminary
+DESCRIPTION:Priority: High. Category: Inflation Expectations. University 
+ of Michigan preliminary consumer survey for November 2026. Focus: 1-year
+  and 5–10-year inflation expectations.
+URL:https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-0830-cpi-inflation-report@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+SUMMARY:CPI Inflation Report
+DESCRIPTION:Priority: Tier 1. Category: Inflation. Consumer Price Index f
+ or October 2026. Focus: headline/core monthly inflation\, shelter\, and 
+ services.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-1000-existing-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261112T150000Z
+DTEND:20261112T153000Z
+SUMMARY:Existing-Home Sales
+DESCRIPTION:Priority: High. Category: Housing. NAR existing-home sales fo
+ r October 2026. Focus: sales pace\, inventory\, prices\, and months of s
+ upply.
+URL:https://www.nar.realtor/newsroom/nar-statistical-news-release-schedul
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-0830-producer-price-index-ppi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+SUMMARY:Producer Price Index / PPI
+DESCRIPTION:Priority: High. Category: Inflation. Producer Price Index for
+  October 2026. Focus: core pipeline inflation and PCE-relevant component
+ s.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117-0830-retail-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Priority: Tier 2. Category: Demand. Advance retail sales for 
+ October 2026. Focus: control group and consumer-demand momentum.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117-0830-import-export-price-indexes@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:Import & Export Price Indexes
+DESCRIPTION:Priority: Secondary. Category: Inflation. Import and export p
+ rice indexes for October 2026. Focus: imported inflation\, currency\, an
+ d commodity pass-through.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-0830-housing-starts-building-permits@us-macro-rates-inflatio
+ n
+DTSTAMP:20260608T195125Z
+DTSTART:20261118T133000Z
+DTEND:20261118T140000Z
+SUMMARY:Housing Starts & Building Permits
+DESCRIPTION:Priority: High. Category: Housing. New Residential Constructi
+ on for October 2026. Focus: starts\, permits\, completions\, and single-
+ family activity.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-0830-personal-income-outlays-core-pce@us-macro-rates-inflati
+ on
+DTSTAMP:20260608T195125Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:Personal Income & Outlays / Core PCE
+DESCRIPTION:Priority: Tier 1. Category: Inflation & Spending. Personal In
+ come and Outlays for October 2026. Focus: core PCE inflation\, consumer 
+ spending\, income\, and saving.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-0830-durable-goods-orders@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:Durable Goods Orders
+DESCRIPTION:Priority: Secondary. Category: Business Investment. Advance d
+ urable goods orders for October 2026. Focus: core capital-goods orders a
+ nd shipments.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-1000-new-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261125T150000Z
+DTEND:20261125T153000Z
+SUMMARY:New Home Sales
+DESCRIPTION:Priority: High. Category: Housing. New residential sales for 
+ October 2026. Focus: sales pace\, inventory\, prices\, and revisions.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-1000-ism-manufacturing-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Manufactur
+ ing PMI for November 2026. Focus: prices paid\, new orders\, employment\
+ , and supplier deliveries.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-1000-jolts-job-openings@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+SUMMARY:JOLTS Job Openings
+DESCRIPTION:Priority: High. Category: Labor. Job Openings and Labor Turno
+ ver Survey for October 2026. Focus: openings\, quits\, hires\, and labor
+ -market tightness.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-1000-ism-services-pmi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261203T150000Z
+DTEND:20261203T153000Z
+SUMMARY:ISM Services PMI
+DESCRIPTION:Priority: Tier 2. Category: Business Activity. ISM Services P
+ MI for November 2026. Focus: prices paid\, new orders\, business activit
+ y\, and employment.
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/r
+ ob-report-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-0830-employment-situation-nonfarm-payrolls@us-macro-rates-in
+ flation
+DTSTAMP:20260608T195125Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:Employment Situation / Nonfarm Payrolls
+DESCRIPTION:Priority: Tier 1. Category: Labor. Employment Situation for N
+ ovember 2026. Focus: payrolls\, unemployment\, wages\, participation\, a
+ nd revisions.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-1000-michigan-sentiment-preliminary@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261204T150000Z
+DTEND:20261204T153000Z
+SUMMARY:Michigan Sentiment — Preliminary
+DESCRIPTION:Priority: High. Category: Inflation Expectations. University 
+ of Michigan preliminary consumer survey for December 2026. Focus: 1-year
+  and 5–10-year inflation expectations.
+URL:https://data.sca.isr.umich.edu/fetchdoc.php?docid=79628
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-0830-productivity-unit-labor-costs@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261208T133000Z
+DTEND:20261208T140000Z
+SUMMARY:Productivity & Unit Labor Costs
+DESCRIPTION:Priority: High. Category: Inflation & Growth. Productivity an
+ d costs release: Q3 2026 revised. Focus: unit labor costs and nonfarm pr
+ oductivity.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-1000-existing-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261209T150000Z
+DTEND:20261209T153000Z
+SUMMARY:Existing-Home Sales
+DESCRIPTION:Priority: High. Category: Housing. NAR existing-home sales fo
+ r November 2026. Focus: sales pace\, inventory\, prices\, and months of 
+ supply.
+URL:https://www.nar.realtor/newsroom/nar-statistical-news-release-schedul
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-0830-cpi-inflation-report@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:CPI Inflation Report
+DESCRIPTION:Priority: Tier 1. Category: Inflation. Consumer Price Index f
+ or November 2026. Focus: headline/core monthly inflation\, shelter\, and
+  services.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-0830-producer-price-index-ppi@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+SUMMARY:Producer Price Index / PPI
+DESCRIPTION:Priority: High. Category: Inflation. Producer Price Index for
+  November 2026. Focus: core pipeline inflation and PCE-relevant componen
+ ts.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216-0830-retail-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+SUMMARY:Retail Sales
+DESCRIPTION:Priority: Tier 2. Category: Demand. Advance retail sales for 
+ November 2026. Focus: control group and consumer-demand momentum.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-0830-import-export-price-indexes@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261217T133000Z
+DTEND:20261217T140000Z
+SUMMARY:Import & Export Price Indexes
+DESCRIPTION:Priority: Secondary. Category: Inflation. Import and export p
+ rice indexes for November 2026. Focus: imported inflation\, currency\, a
+ nd commodity pass-through.
+URL:https://www.bls.gov/schedule/news_release/current_year.asp
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-0830-housing-starts-building-permits@us-macro-rates-inflatio
+ n
+DTSTAMP:20260608T195125Z
+DTSTART:20261217T133000Z
+DTEND:20261217T140000Z
+SUMMARY:Housing Starts & Building Permits
+DESCRIPTION:Priority: High. Category: Housing. New Residential Constructi
+ on for November 2026. Focus: starts\, permits\, completions\, and single
+ -family activity.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-0830-personal-income-outlays-core-pce@us-macro-rates-inflati
+ on
+DTSTAMP:20260608T195125Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:Personal Income & Outlays / Core PCE
+DESCRIPTION:Priority: Tier 1. Category: Inflation & Spending. Personal In
+ come and Outlays for November 2026. Focus: core PCE inflation\, consumer
+  spending\, income\, and saving.
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-0830-durable-goods-orders@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:Durable Goods Orders
+DESCRIPTION:Priority: Secondary. Category: Business Investment. Advance d
+ urable goods orders for November 2026. Focus: core capital-goods orders 
+ and shipments.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-1000-new-home-sales@us-macro-rates-inflation
+DTSTAMP:20260608T195125Z
+DTSTART:20261223T150000Z
+DTEND:20261223T153000Z
+SUMMARY:New Home Sales
+DESCRIPTION:Priority: High. Category: Housing. New residential sales for 
+ November 2026. Focus: sales pace\, inventory\, prices\, and revisions.
+URL:https://www.census.gov/economic-indicators/calendar-listview.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
